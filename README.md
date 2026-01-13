@@ -1,3 +1,11 @@
+## 👩‍💼 Aishwarya Walhekar — Business Systems Analyst
+
+📧 Email: aish.walhekar1@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/aishwaryaw1
+
+**Project Purpose:**  
+End-to-end education data warehouse and analytics solution demonstrating enrollment trends, funding impact, and data quality validation for public-sector and education environments.
+
 # education-data-warehouse-enrollment-analytics
 Education# Education Data Warehouse & Enrollment Analytics
 
