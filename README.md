@@ -1,4 +1,4 @@
-## 👩‍💼 Aishwarya Walhekar — Business Systems Analyst
+## 👩‍💼 Aishwarya D Walhekar — Business Systems Analyst
 
 📧 Email: aish.walhekar1@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/aishwaryaw1
