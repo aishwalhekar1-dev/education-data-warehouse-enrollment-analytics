@@ -14,6 +14,30 @@ This project demonstrates the design of an education-focused data warehouse to a
 
 ## Business Objective
 Provide education leadership and finance stakeholders with accurate enrollment and funding insights to support strategic planning, budget allocation, and compliance reporting.
+## 📊 Enrollment Overview Dashboard
+
+![Enrollment Overview Dashboard](visuals/enrollment_overview.png)
+
+**Description:**  
+This dashboard provides a high-level view of student enrollment trends across academic terms.
+
+**Key Insights:**
+- Enrollment trends across academic periods
+- Program-level enrollment distribution
+- Supports academic planning and forecasting
+  
+## 💰 Funding Analysis Dashboard
+
+![Funding Analysis Dashboard](visuals/funding_analysis.png)
+
+**Description:**  
+This dashboard analyzes funding distribution across academic programs and enrollment volume.
+
+**Key Insights:**
+- Funding varies by program
+- Higher enrollment programs require increased funding
+- Supports financial planning and compliance reporting
+
 
 ## Stakeholders
 - Education Department Leadership
@@ -72,3 +96,10 @@ Provide education leadership and finance stakeholders with accurate enrollment a
 - Automation of data quality checks
 - Expansion to multi-year funding analysis
  data warehouse project focused on enrollment analytics, funding impact, and data quality.
+
+## 🚀 How to Run This Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aishwalhekar1-dev/education-data-warehouse-enrollment-analytics
+
