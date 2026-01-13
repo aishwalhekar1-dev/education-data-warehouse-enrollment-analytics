@@ -1,0 +1,5 @@
+enrollment_id,student_id,course_id,term,enrollment_status
+E2001,S1001,C101,2024-FALL,Active
+E2002,S1002,C102,2024-FALL,Active
+E2003,S1003,C103,2024-SPRING,Active
+E2004,S1004,C101,2024-FALL,Withdrawn
